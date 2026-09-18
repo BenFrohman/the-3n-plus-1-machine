@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you reference this work after a signed public release, please cite it as below. Until then this deposit is private."
+message: "If you use or reference this work, please cite it as below."
 title: "The 3n+1 Machine"
 type: software
 authors:
@@ -21,5 +21,4 @@ abstract: >-
   An interactive cinematic visual proof of almost everything that is known
   about the Collatz conjecture — Terras density, the reverse tree, the
   parity-vector engine — and the lemma that remains. Author: Benjamin
-  Stanley Frohman. Private priority deposit 18 September 2026. All rights
-  reserved until a signed public release.
+  Stanley Frohman. Priority release 18 September 2026. All rights reserved.

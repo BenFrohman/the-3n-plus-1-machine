@@ -1,20 +1,15 @@
 # Release protocol
 
-This repository stays **private** until Benjamin Stanley Frohman signs a
-priority release.
+Signed by **Benjamin Stanley Frohman** on 18 September 2026.
 
-## Current deposit
+License is unchanged: **All rights reserved.** See [LICENSE](../LICENSE).
 
-- Tag: `v1.0.0-priority`
-- GitHub Release: **draft** and **prerelease**
-- Visibility: private repository only
+## Current release
 
-## To sign (copyright holder only)
+- Tag: `v1.0.0-priority` (first-fixation commit `ce2663622c04171e4273646bd8520aefe9341d7d`)
+- GitHub Release: **public** · **latest** (not draft, not prerelease)
+- Visibility: public repository
+- Provenance: published under GitHub account [@BenFrohman](https://github.com/BenFrohman)
 
-1. Review LICENSE, COPYRIGHT, and the tagged tree.
-2. In GitHub → Releases → `v1.0.0-priority` → edit.
-3. Uncheck Draft. Keep or drop Prerelease as you choose.
-4. Optionally set the repository to Public.
-5. Optionally elect a public license (e.g. CC BY 4.0) by replacing LICENSE.
-
-Until step 3, this is a dated private deposit, not a public publication.
+This file’s commit on `main` is the GitHub-verified record of that signing.
+The tagged tree itself is the 18 September 2026 first-fixation and is not rewritten.

@@ -3,12 +3,12 @@ Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.
 Work:          The 3n+1 Machine
 Author:        Benjamin Stanley Frohman
 Also known as: Frohmanian · X @Investor0x · GitHub @BenFrohman
-First fixed:   18 September 2026 (this repository, private priority deposit)
+First fixed:   18 September 2026 (private priority deposit, tag v1.0.0-priority)
+Public:        18 September 2026 (signed public release, same tag)
 Jurisdiction:  United States
 
 This file is a copyright notice, not a license. The governing terms are in
-LICENSE. No rights are granted by deposit in a private GitHub repository,
-by tagging a prerelease, or by distributing a source archive.
+LICENSE. Public visibility, tagging, and source archives do not grant rights.
 
 Claimed subject matter includes, without limitation:
 

@@ -4,7 +4,6 @@
 
 Copyright (c) 2026 **Benjamin Stanley Frohman**. All rights reserved.
 
-This repository is a **private priority deposit**. It is not a public release.
 No license to copy, share, or fork is granted. See [LICENSE](LICENSE) and
 [COPYRIGHT](COPYRIGHT).
 
@@ -12,8 +11,9 @@ No license to copy, share, or fork is granted. See [LICENSE](LICENSE) and
 |---|---|
 | Author | Benjamin Stanley Frohman |
 | Version | `1.0.0-priority` |
-| Status | Private · unpublished · awaiting signed priority release |
+| Status | Public · signed priority release |
 | First fixed | 18 September 2026 |
+| License | All rights reserved |
 
 ## What it is
 
@@ -36,7 +36,7 @@ known results, not a claimed proof of the conjecture.
 
 ```
 LICENSE COPYRIGHT NOTICE CITATION.cff SECURITY.md
-package.json          npm package metadata (private)
+package.json          npm package metadata (private to npm; source is public)
 src/                  application
   components/machine  HUD, explorer, library, share
   lib/collatz         trajectories, Terras, coral, bijection
@@ -53,9 +53,4 @@ scripts/              build / preview helpers
 Original software, audiovisual sequence, and brand assets: **All rights reserved.**
 Third-party packages keep their own licenses — see [NOTICE](NOTICE).
 
-Do not publish, mirror, or change the visibility of this repository without
-the copyright holder’s written instruction.
-
-To convert this deposit into a public, signed release: publish the GitHub
-Release `v1.0.0-priority` (currently a **draft prerelease**) and, if desired,
-elect a public license in LICENSE.
+Public visibility is not a license grant. See [LICENSE](LICENSE).
