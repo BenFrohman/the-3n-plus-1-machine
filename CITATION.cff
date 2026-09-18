@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference this work after a signed public release, please cite it as below. Until then this deposit is private."
+title: "The 3n+1 Machine"
+type: software
+authors:
+  - family-names: "Frohman"
+    given-names: "Benjamin Stanley"
+    alias: "X.com : Investor0x"
+    website: "https://github.com/BenFrohman"
+version: "1.0.0-priority"
+date-released: "2026-09-18"
+license: "LicenseRef-Frohman-All-Rights-Reserved"
+repository-code: "https://github.com/BenFrohman/the-3n-plus-1-machine"
+keywords:
+  - "Collatz conjecture"
+  - "3n+1"
+  - "hailstone sequence"
+  - "visual proof"
+  - "interactive film"
+abstract: >-
+  An interactive cinematic visual proof of almost everything that is known
+  about the Collatz conjecture — Terras density, the reverse tree, the
+  parity-vector engine — and the lemma that remains. Author: Benjamin
+  Stanley Frohman. Private priority deposit 18 September 2026. All rights
+  reserved until a signed public release.

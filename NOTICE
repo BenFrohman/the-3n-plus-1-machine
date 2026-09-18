@@ -1,0 +1,23 @@
+The 3n+1 Machine
+Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.
+
+This product includes third-party software. Those packages remain under
+their own licenses. The All Rights Reserved terms in LICENSE apply only
+to original material by Benjamin Stanley Frohman and do not relicense
+dependencies.
+
+Principal third-party components (see package.json / package-lock.json
+for versions):
+
+  React, React DOM                         MIT
+  TanStack Router / Start / Query / Table  MIT
+  Vite, Nitro                              MIT
+  Tailwind CSS                             MIT
+  Better Auth                              MIT
+  Lucide React                             ISC
+  PostgreSQL client (pg)                   MIT
+  PGLite (@electric-sql/pglite)            Apache-2.0
+  Zod, Zustand, clsx, tailwind-merge       MIT
+
+A full inventory is the lockfile. Include NOTICE with any permitted
+redistribution of original material.

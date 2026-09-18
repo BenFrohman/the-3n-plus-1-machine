@@ -1,0 +1,6 @@
+{
+  "title": "The 3n+1 Machine",
+  "type": "x:game",
+  "card": "custom",
+  "description": "An interactive visual proof of the Collatz conjecture — every hailstone falls to one."
+}

@@ -1,0 +1,32 @@
+Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.
+
+THE 3n+1 MACHINE
+Priority deposit: 18 September 2026
+Author: Benjamin Stanley Frohman
+
+This software, its source code, audiovisual presentation, brand assets,
+computed data, and accompanying documentation (the "Work") are the
+exclusive copyrighted property of Benjamin Stanley Frohman.
+
+NO LICENSE IS GRANTED.
+
+You may not copy, modify, merge, publish, distribute, sublicense, sell,
+publicly perform, publicly display, or create derivative works of the Work,
+in whole or in part, except with prior written permission of the copyright
+holder, or as required by applicable law (including fair use).
+
+Third-party packages listed in package.json remain under their own licenses.
+See NOTICE.
+
+A public license may be elected only by the copyright holder, upon a signed
+priority release. Until that election, this All Rights Reserved notice
+controls.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+SPDX-License-Identifier: LicenseRef-Frohman-All-Rights-Reserved

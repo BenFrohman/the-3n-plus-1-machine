@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #020504;
+  --color-surface: #071410;
+  --color-surface-2: #0c1f18;
+  --color-fg: #ebfff5;
+  --color-muted: #6fb896;
+  --color-primary: #3cff96;
+  --color-amber: #ffbe46;
+  --color-danger: #ff5a5a;
+  --color-border: #1a3d2e;
+  --color-cyan: #5adcff;
+  --font-sans: "IBM Plex Mono", ui-monospace, monospace;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 22px;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  html,
+  body,
+  #app {
+    background: var(--color-bg);
+    color: var(--color-fg);
+    font-family: var(--font-mono);
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+    filter: blur(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+}
+
+.gate-item {
+  opacity: 0;
+  animation: rise 500ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+.gate-item:nth-child(1) {
+  animation-delay: 80ms;
+}
+.gate-item:nth-child(2) {
+  animation-delay: 160ms;
+}
+.gate-item:nth-child(3) {
+  animation-delay: 260ms;
+}
+.gate-item:nth-child(4) {
+  animation-delay: 380ms;
+}
+.gate-item:nth-child(5) {
+  animation-delay: 460ms;
+}
+.gate-item:nth-child(6) {
+  animation-delay: 540ms;
+}
