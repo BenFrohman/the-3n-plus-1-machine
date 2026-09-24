@@ -243,7 +243,7 @@ export function MachineApp({
               Begin the proof
             </button>
             <p className="gate-item text-[10px] tracking-wide text-muted">
-              © 2026 Benjamin Stanley Frohman. All rights reserved.
+              © 2026 Benjamin Stanley Frohman. Use by paid license.
             </p>
           </div>
         </div>

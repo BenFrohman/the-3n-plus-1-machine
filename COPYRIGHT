@@ -1,14 +1,16 @@
-Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.
+Copyright (c) 2026 Benjamin Stanley Frohman.
 
 Work:          The 3n+1 Machine
 Author:        Benjamin Stanley Frohman
 Also known as: Frohmanian · X @Investor0x · GitHub @BenFrohman
-First fixed:   18 September 2026 (private priority deposit, tag v1.0.0-priority)
-Public:        18 September 2026 (signed public release, same tag)
+First fixed:   18 September 2026 (tag v1.0.0-priority)
+Public:        18 September 2026
+Paid-use:      23 September 2026 (this LICENSE; use only for a fee)
 Jurisdiction:  United States
 
 This file is a copyright notice, not a license. The governing terms are in
-LICENSE. Public visibility, tagging, and source archives do not grant rights.
+LICENSE. Use of the Work is allowed only after payment of a fee and written
+confirmation from the copyright holder. Public visibility does not grant rights.
 
 Claimed subject matter includes, without limitation:
 
@@ -24,4 +26,4 @@ Mathematical facts about the Collatz map (Terras 1976, Tao 2019, and the
 open conjecture itself) are not claimed as original theorems of this Work.
 The presentation, software, and compilation are.
 
-Unauthorized reproduction is prohibited.
+Use without a paid license is prohibited.

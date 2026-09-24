@@ -2,18 +2,21 @@
 
 **A cinematic visual proof of almost everything that is known about the Collatz conjecture.**
 
-Copyright (c) 2026 **Benjamin Stanley Frohman**. All rights reserved.
+Copyright (c) 2026 **Benjamin Stanley Frohman**.
 
-No license to copy, share, or fork is granted. See [LICENSE](LICENSE) and
-[COPYRIGHT](COPYRIGHT).
+**Use is allowed only for a fee.** See [LICENSE](LICENSE). A paid license
+starts only when the copyright holder confirms payment in writing. There is
+no free license to copy, run as a product, or share this Work.
 
 | | |
 |---|---|
 | Author | Benjamin Stanley Frohman |
-| Version | `1.0.0-priority` |
-| Status | Public · signed priority release |
+| Version | `1.1.0` |
+| Status | Public · paid-use license |
 | First fixed | 18 September 2026 |
-| License | All rights reserved |
+| License | Paid use — fee set by the author |
+
+Request a license: [github.com/BenFrohman](https://github.com/BenFrohman)
 
 ## What it is
 
@@ -36,7 +39,7 @@ known results, not a claimed proof of the conjecture.
 
 ```
 LICENSE COPYRIGHT NOTICE CITATION.cff SECURITY.md
-package.json          npm package metadata (private to npm; source is public)
+package.json          npm package metadata (not published to npm)
 src/                  application
   components/machine  HUD, explorer, library, share
   lib/collatz         trajectories, Terras, coral, bijection
@@ -50,7 +53,8 @@ scripts/              build / preview helpers
 
 ## Rights
 
-Original software, audiovisual sequence, and brand assets: **All rights reserved.**
-Third-party packages keep their own licenses — see [NOTICE](NOTICE).
+Use, copying, and commercial deployment require a **paid license** from
+Benjamin Stanley Frohman. Third-party packages keep their own licenses — see
+[NOTICE](NOTICE).
 
-Public visibility is not a license grant. See [LICENSE](LICENSE).
+Tag `v1.0.0-priority` is the 18 September 2026 first-fixation and is not rewritten.

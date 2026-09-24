@@ -1,4 +1,4 @@
-/** The 3n+1 Machine — Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved. */
+/** The 3n+1 Machine — Copyright (c) 2026 Benjamin Stanley Frohman. Use allowed only for a fee. */
 
 import { DATA } from "@/lib/collatz/data";
 import { formatInt, peakOf, trajectory } from "@/lib/collatz/math";

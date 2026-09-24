@@ -1,26 +1,44 @@
-Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.
+Copyright (c) 2026 Benjamin Stanley Frohman.
 
 THE 3n+1 MACHINE
-Priority deposit: 18 September 2026
+Paid-use license — effective 23 September 2026
 Author: Benjamin Stanley Frohman
 
 This software, its source code, audiovisual presentation, brand assets,
 computed data, and accompanying documentation (the "Work") are the
 exclusive copyrighted property of Benjamin Stanley Frohman.
 
-NO LICENSE IS GRANTED.
+USE IS ALLOWED ONLY FOR A FEE.
 
-You may not copy, modify, merge, publish, distribute, sublicense, sell,
-publicly perform, publicly display, or create derivative works of the Work,
-in whole or in part, except with prior written permission of the copyright
-holder, or as required by applicable law (including fair use).
+1. Paid license. Benjamin Stanley Frohman may grant a license to use the
+   Work in exchange for a fee. The license begins only when he confirms, in
+   writing, that the fee has been paid, and only for the term, territory,
+   and purpose named in that confirmation.
+
+2. What a paid license covers. Unless the written confirmation says
+   otherwise, it is a non-exclusive, non-transferable, non-sublicensable
+   right for the named licensee to use and run the Work for that licensee's
+   own purposes. It does not include the right to redistribute the Work,
+   publish it, sell it, or grant rights to anyone else.
+
+3. No free license. Making this repository public, starring it, cloning it
+   to read it, or downloading a release is not permission to use the Work.
+   Without a paid license you may not copy, modify, merge, publish,
+   distribute, sublicense, sell, publicly perform, publicly display, run as
+   a product, or create derivative works of the Work, except as required by
+   applicable law (including fair use).
+
+4. Fee. The amount, currency, and payment method are set by the copyright
+   holder at the time of the request. There is no free tier. Request a
+   license from Benjamin Stanley Frohman:
+   https://github.com/BenFrohman
+
+5. Earlier deposit. Tag v1.0.0-priority (18 September 2026) was published
+   with no license granted. This paid-use license governs the Work from
+   23 September 2026. It does not rewrite that tag.
 
 Third-party packages listed in package.json remain under their own licenses.
 See NOTICE.
-
-A public license may be elected only by the copyright holder, upon a signed
-priority release. Until that election, this All Rights Reserved notice
-controls.
 
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -29,4 +47,4 @@ THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
 CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
 
-SPDX-License-Identifier: LicenseRef-Frohman-All-Rights-Reserved
+SPDX-License-Identifier: LicenseRef-Frohman-Paid-Use
