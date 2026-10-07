@@ -4,19 +4,16 @@
 
 Copyright (c) 2026 **Benjamin Stanley Frohman**.
 
-**Use is allowed only for a fee.** See [LICENSE](LICENSE). A paid license
-starts only when the copyright holder confirms payment in writing. There is
-no free license to copy, run as a product, or share this Work.
+Open source under the Apache License, Version 2.0. See [LICENSE](LICENSE).
+The paid-use restriction of 23 September 2026 was a mistake and is withdrawn.
 
 | | |
 |---|---|
 | Author | Benjamin Stanley Frohman |
 | Version | `1.1.0` |
-| Status | Public · paid-use license |
+| Status | Public · Apache-2.0 |
 | First fixed | 18 September 2026 |
-| License | Paid use — fee set by the author |
-
-Request a license: [github.com/BenFrohman](https://github.com/BenFrohman)
+| License | Apache-2.0 |
 
 ## What it is
 
@@ -53,8 +50,7 @@ scripts/              build / preview helpers
 
 ## Rights
 
-Use, copying, and commercial deployment require a **paid license** from
-Benjamin Stanley Frohman. Third-party packages keep their own licenses — see
-[NOTICE](NOTICE).
+Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
+Third-party packages keep their own licenses. See [NOTICE](NOTICE).
 
 Tag `v1.0.0-priority` is the 18 September 2026 first-fixation and is not rewritten.
