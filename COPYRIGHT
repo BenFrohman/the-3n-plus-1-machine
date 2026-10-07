@@ -5,12 +5,12 @@ Author:        Benjamin Stanley Frohman
 Also known as: Frohmanian · X @Investor0x · GitHub @BenFrohman
 First fixed:   18 September 2026 (tag v1.0.0-priority)
 Public:        18 September 2026
-Paid-use:      23 September 2026 (this LICENSE; use only for a fee)
+Open source:   6 October 2026 (Apache-2.0; paid-use terms withdrawn)
 Jurisdiction:  United States
 
 This file is a copyright notice, not a license. The governing terms are in
-LICENSE. Use of the Work is allowed only after payment of a fee and written
-confirmation from the copyright holder. Public visibility does not grant rights.
+LICENSE. The 23 September 2026 paid-use restriction was a mistake and is
+withdrawn. Use is allowed under Apache-2.0.
 
 Claimed subject matter includes, without limitation:
 
@@ -25,5 +25,3 @@ Claimed subject matter includes, without limitation:
 Mathematical facts about the Collatz map (Terras 1976, Tao 2019, and the
 open conjecture itself) are not claimed as original theorems of this Work.
 The presentation, software, and compilation are.
-
-Use without a paid license is prohibited.
