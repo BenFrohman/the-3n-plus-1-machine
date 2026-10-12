@@ -1,4 +1,4 @@
-/** The 3n+1 Machine — Copyright (c) 2026 Benjamin Stanley Frohman. Use allowed only for a fee. */
+/** The 3n+1 Machine — Copyright (c) 2026 Benjamin Stanley Frohman. Apache License, Version 2.0. The paid-use terms of 23 September 2026 are withdrawn. */
 
 import { DATA } from "@/lib/collatz/data";
 import { formatInt, peakOf, trajectory } from "@/lib/collatz/math";
