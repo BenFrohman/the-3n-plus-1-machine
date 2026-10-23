@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 import type { CallToolResult } from "./types.ts";
 
 export function isLoginRequired(result: CallToolResult): boolean {

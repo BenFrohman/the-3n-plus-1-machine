@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Kysely dialect for Better Auth over the app's embedded PGLite instance.
  * Lazy: resolves `getClient` on first connection so migrations can finish first.

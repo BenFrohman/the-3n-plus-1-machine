@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 import { fade, rgb, GREEN as G, WHITE } from "./palette";
 
 export type RGB = [number, number, number];

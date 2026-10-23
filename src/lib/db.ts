@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 import { pendingMigrations } from "../../scripts/migration-plan.mjs";
 
 /** Which database backend is active. */

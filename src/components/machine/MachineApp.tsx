@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Link } from "@tanstack/react-router";
 import {

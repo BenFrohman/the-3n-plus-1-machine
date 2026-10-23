@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Client-readable marker for gate-materialized sessions ("Sign in with Grok"
  * zero-click sessions minted by `gate-session.server.ts`). Signing out of a

@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 export function collatzStep(n: number): number {
   return n % 2 === 0 ? n / 2 : 3 * n + 1;
 }

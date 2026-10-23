@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 export function isGrokEmbedderOrigin(origin: string): boolean {
   try {
     const url = new URL(origin);

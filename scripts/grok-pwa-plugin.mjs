@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Dev/preview (Vite) half of the platform PWA chrome: serves the ?install=1
  * tutorial and the per-app manifest, and injects missing PWA head tags into

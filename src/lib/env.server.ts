@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 export function env(key: string): string | undefined {
   const v = process.env[key]?.trim();
   return v || undefined;

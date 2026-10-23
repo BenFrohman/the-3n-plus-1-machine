@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 // @ts-check
 /**
  * Migration bookkeeping shared by the two appliers — `scripts/migrate.mjs`

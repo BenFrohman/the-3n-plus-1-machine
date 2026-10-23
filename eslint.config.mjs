@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 import js from "@eslint/js";
 import prettier from "eslint-config-prettier";
 import reactHooks from "eslint-plugin-react-hooks";

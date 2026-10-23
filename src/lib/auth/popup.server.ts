@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Live-preview sign-in popup — server-only (NEVER import from the client).
  *

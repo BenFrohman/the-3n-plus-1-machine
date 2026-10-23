@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 type Col = { y: number; v: number; g: string[] };
 
 const GLYPHS = "0123456789";

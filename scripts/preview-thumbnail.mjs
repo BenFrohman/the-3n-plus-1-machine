@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 // Capture a 1280x800 preview PNG of the dev server (argv[2] -> argv[3]).
 // Contract with SandboxInternal.CapturePreviewThumbnail: exit 0 only after the
 // PNG is written; the service treats any non-zero exit as a gated skip and does

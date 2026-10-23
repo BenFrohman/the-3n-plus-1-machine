@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 import { mkdirSync, readFileSync, realpathSync, statSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 import { chromium } from "playwright";

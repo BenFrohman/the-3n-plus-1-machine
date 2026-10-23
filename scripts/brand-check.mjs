@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Brand-asset gate shared by browser-smoke.mjs (and unit-testable without a
  * browser): a canvas app is almost always a game / visually rich app, and

@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 import assert from "node:assert/strict";
 import { test } from "node:test";
 import {

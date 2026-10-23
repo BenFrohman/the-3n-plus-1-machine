@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Hand a staged file over to a path another agent reads, in one step.
  *

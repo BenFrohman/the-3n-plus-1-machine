@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 // @ts-check
 /**
  * The sign-out sequence used by `src/lib/auth/client.ts`, kept here as a pure

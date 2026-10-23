@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Run a command with `.grok/app-env.json` merged into its environment.
  *

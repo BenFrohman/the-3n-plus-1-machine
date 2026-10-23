@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Fail loudly when the running dev server and the next build disagree about
  * `VITE_AUTH_ENABLED`.

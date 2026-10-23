@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 export const CONNECTOR_TOKEN_HEADER = "x-connector-access-token";
 
 export const CONNECTOR_TOKEN_PENDING_CODE = "connector_token_pending";

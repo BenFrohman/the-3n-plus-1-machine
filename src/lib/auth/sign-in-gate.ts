@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 export type SignInGateState = "pending" | "signed_in" | "signed_out";
 
 export type SignInGateInput = {

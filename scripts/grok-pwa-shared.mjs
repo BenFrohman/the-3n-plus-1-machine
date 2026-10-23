@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Single source of truth for platform head chrome (PWA, extensions.js, OG),
  * shared by the Vite plugin and Nitro middleware. Plain ESM so `node --test`

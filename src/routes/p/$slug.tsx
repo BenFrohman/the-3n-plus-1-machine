@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { MachineApp } from "@/components/machine/MachineApp";
 import { getShare } from "@/lib/orbits/api";

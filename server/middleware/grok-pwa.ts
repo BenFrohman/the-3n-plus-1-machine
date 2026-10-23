@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 /**
  * Deployed-app (Nitro) half of the platform PWA chrome. Auto-registered as
  * global h3 middleware because vite.config.ts sets `serverDir: "./server"` —

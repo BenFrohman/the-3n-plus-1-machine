@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0.
 export const GREEN: [number, number, number] = [60, 255, 150];
 export const DIM: [number, number, number] = [22, 110, 70];
 export const DARK: [number, number, number] = [10, 46, 30];
