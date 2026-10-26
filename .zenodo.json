@@ -1,0 +1,28 @@
+{
+  "title": "The 3n+1 Machine: Interactive Visual Orbit Explorer, Stopping-Time Analyzer, and Parity-Vector Platform for Collatz Dynamics",
+  "upload_type": "software",
+  "description": "Standalone TypeScript/React/Node computational platform (`src/`, `server/`, `shared/`, `migrations/`) for interactive exploration of 3n+1 Collatz trajectories, 2-adic parity-vector trees, Terras stopping-time distributions, and cycle-equation invariants. Computational and visual exploration platform for verified finite-range Collatz dynamics and algebraic cycle identities; does not claim an unconditional proof of the global 3n+1 conjecture. Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0.",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "keywords": [
+    "Collatz dynamics",
+    "3n+1 problem",
+    "Stopping time visualization",
+    "Parity vectors",
+    "Interactive mathematical software",
+    "TypeScript"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/the-3n-plus-1-machine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,25 +1,13 @@
-The 3n+1 Machine
-Copyright (c) 2026 Benjamin Stanley Frohman (ORCID: https://orcid.org/0009-0006-7068-3718).
+the-3n-plus-1-machine
+Copyright (c) 2026 Benjamin Stanley Frohman
 
-Licensed under the Apache License, Version 2.0. The paid-use terms of
-23 September 2026 are withdrawn.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-This product includes third-party software. Those packages remain under
-their own licenses. Apache-2.0 applies to original material by Benjamin
-Stanley Frohman and does not relicense dependencies.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-Principal third-party components (see package.json / package-lock.json
-for versions):
-
-  React, React DOM                         MIT
-  TanStack Router / Start / Query / Table  MIT
-  Vite, Nitro                              MIT
-  Tailwind CSS                             MIT
-  Better Auth                              MIT
-  Lucide React                             ISC
-  PostgreSQL client (pg)                   MIT
-  PGLite (@electric-sql/pglite)            Apache-2.0
-  Zod, Zustand, clsx, tailwind-merge       MIT
-
-A full inventory is the lockfile. Include NOTICE with any redistribution
-of original material.
+Author: Benjamin Stanley Frohman (ORCID: https://orcid.org/0009-0006-7068-3718)
+Repository: https://github.com/BenFrohman/the-3n-plus-1-machine
+Dedicated 1-to-1 Zenodo DOI: https://doi.org/10.5281/zenodo.23653011
+Earliest Commit Provenance: ce2663622c04171e4273646bd8520aefe9341d7d (2026-09-18 04:27:42 PM CDT (UTC-5))

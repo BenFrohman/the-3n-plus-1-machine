@@ -1,0 +1,13 @@
+{
+  "schema": "sealguard-manifest-v1.0",
+  "repository": "BenFrohman/the-3n-plus-1-machine",
+  "doi": "10.5281/zenodo.23653011",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "public_surface_policy": "VERIFIED_PUBLIC_SURFACE_ONLY",
+  "classified_ip_redaction": "ACTIVE_ZERO_LEAKAGE",
+  "merkle_root_sha256": "792f2652b5a51d351bdf19ecd11688b3ed751823c5956012a3aa59a30e6e5e8d",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "1ebe5417434d61ee899a67b866114295790ba370a4fa6b7486d9e0425e21da3622b9828985144de80a2271e22f5e92623fc14bb98b15290c67c6fc5f860c820c"
+}

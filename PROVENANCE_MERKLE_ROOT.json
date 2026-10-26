@@ -1,0 +1,605 @@
+{
+  "schema": "sealguard-merkle-provenance-v1.0",
+  "repository": "BenFrohman/the-3n-plus-1-machine",
+  "doi": "10.5281/zenodo.23653011",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "merkle_root_sha256": "792f2652b5a51d351bdf19ecd11688b3ed751823c5956012a3aa59a30e6e5e8d",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "1ebe5417434d61ee899a67b866114295790ba370a4fa6b7486d9e0425e21da3622b9828985144de80a2271e22f5e92623fc14bb98b15290c67c6fc5f860c820c",
+  "leaf_count": 118,
+  "leaves": [
+    {
+      "path": ".github/CODEOWNERS",
+      "sha256": "db51a51ebf7d590071d9b094bf1560119c09e5657799336d3096ea327b40d1ff",
+      "bytes": 14
+    },
+    {
+      "path": ".github/RELEASE.md",
+      "sha256": "e22ea0a920cee25ebfa149f919fddb842f876e094190b2f44db3491feadb61b8",
+      "bytes": 648
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "6ab49d54e18c2caa086e3fbe480d75377108e45867e562a891b12fa081902cdc",
+      "bytes": 194
+    },
+    {
+      "path": ".grok/app-env.json",
+      "sha256": "0a7458baafdc246418e492180d6de6e69a20211534f3711afd4cfd3f5e3faede",
+      "bytes": 43
+    },
+    {
+      "path": ".npmrc",
+      "sha256": "5af3d474eb1886c0ccc2dfd74d3f8bb04b3e15e55ee4eff4b70a8f0ff6800578",
+      "bytes": 48
+    },
+    {
+      "path": ".prettierrc",
+      "sha256": "d5f90f76c5b68ce7be5ba077813f97e1983511b8c314764537345a538c1261f4",
+      "bytes": 90
+    },
+    {
+      "path": ".zenodo.json",
+      "sha256": "abd7cd8083c6ab89aa1ddf0990465207bfd4f73e5ab87a8118c3b5bdb35f1880",
+      "bytes": 1252
+    },
+    {
+      "path": "AUTHORS.md",
+      "sha256": "1732529c9d516b14378c2ea60b7a29a9dd01385bb5f302efa163c42b3dceb130",
+      "bytes": 320
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "06248c77e4b1a389adc71ddd9148525a53f727c025bd23c29c8670e614c4eba1",
+      "bytes": 634
+    },
+    {
+      "path": "COPYRIGHT",
+      "sha256": "af2624f4181f4bd366d8ffd27d34ca2a78aec13fcfaa4435d9f4a0088cfa1738",
+      "bytes": 1199
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "ec43eec7417d548fb78a8dc50830f1d854b91a89c2daf0d4e957601515c15e87",
+      "bytes": 10773
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "f5ca965cbc3e90c98b5d0baa9484c191e2966baddd64c4694cf356854b576326",
+      "bytes": 604
+    },
+    {
+      "path": "README.md",
+      "sha256": "5ff90010ebd93a267a695003630b04315c6b69edcdce8c797c1849d04da67754",
+      "bytes": 2925
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "7d1b689661ceef62a5137ffe65ab509498dcd7b315ccb9b88e8029310cb0cbac",
+      "bytes": 476
+    },
+    {
+      "path": "audit/TITAN_AUDIT_CERTIFICATE.json",
+      "sha256": "95ff7799aaeb17721a2b43d6ce8f57ee2d27fc5f93483c388917c18c01018ff1",
+      "bytes": 675
+    },
+    {
+      "path": "eslint.config.mjs",
+      "sha256": "a840049ae76404c6b33ed0f005d4ea2b9efcf68bcdfbf01d9a4e0ac63aa0f92e",
+      "bytes": 1352
+    },
+    {
+      "path": "migrations/0001_auth.sql",
+      "sha256": "f953cacc448c0c81ae4fe63e66b0e59569e840782ad279fdee201dff529363e9",
+      "bytes": 2739
+    },
+    {
+      "path": "migrations/0002_orbits.sql",
+      "sha256": "8f74f1caf71a28a03e385b662475b5a245f2a188539c3c15205dcfdc207c4aa9",
+      "bytes": 938
+    },
+    {
+      "path": "migrations/auth/0001_auth.sql",
+      "sha256": "f953cacc448c0c81ae4fe63e66b0e59569e840782ad279fdee201dff529363e9",
+      "bytes": 2739
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "fc81314ce9ca4b6be0300e35a223455005daf314253a131134bf089a5b2ba4af",
+      "bytes": 262769
+    },
+    {
+      "path": "package.json",
+      "sha256": "9337efc19955689d307cd01c4640224200ef384a81385383b9438b8258b57729",
+      "bytes": 4332
+    },
+    {
+      "path": "paper/the_3n_plus_1_machine_Technical_Monograph_2026.pdf",
+      "sha256": "f29d61090ceb68f987208605df40e2f743f2245b2c0c3c072ff0ccac48ad3e82",
+      "bytes": 49620
+    },
+    {
+      "path": "paper/the_3n_plus_1_machine_Technical_Monograph_2026.tex",
+      "sha256": "9def12b2bdce3046ff4fb74eda7a5869c9ec3cc532b3d5fb29f18dd90637d6e8",
+      "bytes": 6138
+    },
+    {
+      "path": "public/favicon.svg",
+      "sha256": "6de8eddf1d851737691fc2fea3dae113cb7f71b12ad65efdd22478679b74bfa5",
+      "bytes": 399
+    },
+    {
+      "path": "public/og.jpg",
+      "sha256": "2619129a9d8811c084fc44fed907829834b24b46c0cf2b2a20a10514d50d863e",
+      "bytes": 94780
+    },
+    {
+      "path": "public/x-banner.jpg",
+      "sha256": "24d51a5d09a9971ed2bdc0d89a1ce758246467ab700f17e35ecd81917f7fea3e",
+      "bytes": 61576
+    },
+    {
+      "path": "scripts/app-env-plugin.mjs",
+      "sha256": "c9012cb367bd0d1b7c01e05f099ffafb798a81c0bc30cca26eb76d76cbefeddb",
+      "bytes": 1353
+    },
+    {
+      "path": "scripts/brand-check.mjs",
+      "sha256": "31c56f74d8461e2e65b008f9955773465f1860ca0fdc214bd0fefedfaee20770",
+      "bytes": 9684
+    },
+    {
+      "path": "scripts/brand-check.test.mjs",
+      "sha256": "fa2941f008c105fb3b66f07a0729542785579bc3820372cfc133392c9d2d2e39",
+      "bytes": 15159
+    },
+    {
+      "path": "scripts/browser-guard.mjs",
+      "sha256": "ce18f320c69f89506eb8e0b13b7cd081151585bb1f4aa2a24a7f92c96cad070e",
+      "bytes": 1799
+    },
+    {
+      "path": "scripts/browser-smoke-verdict.mjs",
+      "sha256": "cf9679b8a4dd713636ef826ca1efdba201cb80405dc51d159ed9308d3e6813ab",
+      "bytes": 4738
+    },
+    {
+      "path": "scripts/browser-smoke-verdict.test.mjs",
+      "sha256": "5ff069af0c316480c0ea20853de5e6c98ccf4469d93890da03065a91864bdcd7",
+      "bytes": 15718
+    },
+    {
+      "path": "scripts/browser-smoke.mjs",
+      "sha256": "ea272cd39ef585128f945e1eac8f373d7af54cb6676b34bac1c1033d425fbf68",
+      "bytes": 6117
+    },
+    {
+      "path": "scripts/check-auth-invariant.mjs",
+      "sha256": "3c60e6a4dc64749f07100968c27cdb51da554dd66a769d41a89c8214f7ea549b",
+      "bytes": 4278
+    },
+    {
+      "path": "scripts/check-auth-invariant.test.mjs",
+      "sha256": "e5146edf5b2d5fd3bd57cf70ef1d161de0d711ebf2cbd0ec1ff3c48c5c4edd5c",
+      "bytes": 4293
+    },
+    {
+      "path": "scripts/grok-pwa-plugin.mjs",
+      "sha256": "19ea58acb8752be4b20f28532fdd21a2f525a6a0c34488eabe85dbcbb06dc6fc",
+      "bytes": 6690
+    },
+    {
+      "path": "scripts/grok-pwa-plugin.test.mjs",
+      "sha256": "9770f1be1797ecd51630c73629891c467dc9b316db4d32d83844064f4be53235",
+      "bytes": 20395
+    },
+    {
+      "path": "scripts/grok-pwa-shared.d.mts",
+      "sha256": "99c8342319978d71ef3dea4989c05ecbf096946c39a255fa08f48b081a3e506b",
+      "bytes": 3144
+    },
+    {
+      "path": "scripts/grok-pwa-shared.mjs",
+      "sha256": "5a888cba25e4cff0cbbcd09c8c674e8813bcb3735c33a98412dcb829d58f3cf6",
+      "bytes": 17750
+    },
+    {
+      "path": "scripts/install-page.html",
+      "sha256": "f02e277ec9daec42ea583d04784c91818810a9c9e677d6f25987278c56957024",
+      "bytes": 5739
+    },
+    {
+      "path": "scripts/migrate.mjs",
+      "sha256": "6793bc2292466222d203e27faf5db54e581277e0c39ce9780bed62a882cd81d5",
+      "bytes": 3256
+    },
+    {
+      "path": "scripts/migration-plan.mjs",
+      "sha256": "85ff17614a96247e5da1f46e26a51b6f0f63d39a540a92aa4ed6ea214f91c001",
+      "bytes": 1600
+    },
+    {
+      "path": "scripts/migration-plan.test.mjs",
+      "sha256": "a3a6d19f6b75bae7163f8d382860dafedbdca4f0a929d234afe03cecbde847a8",
+      "bytes": 3633
+    },
+    {
+      "path": "scripts/preview-thumbnail.mjs",
+      "sha256": "e64711d38b8e200b62e69c50cef39202dcabd12528a823656da4f32111b621a8",
+      "bytes": 1837
+    },
+    {
+      "path": "scripts/preview.mjs",
+      "sha256": "5b03f4cf546d08e517d1a02d94838a7b4f9dc546f94d00c01c5d1dd7dbb84cbc",
+      "bytes": 11149
+    },
+    {
+      "path": "scripts/preview.test.mjs",
+      "sha256": "c82ad42854ca2f9945045e3a16cb6b82b0d1c1b2dbc373786cc264eeba04c155",
+      "bytes": 9282
+    },
+    {
+      "path": "scripts/sign-out-plan.mjs",
+      "sha256": "7c3ea546c952725724a2cb10d0adecc371cda0998de4b3153cf85c2de5bd59b3",
+      "bytes": 6046
+    },
+    {
+      "path": "scripts/sign-out-plan.test.mjs",
+      "sha256": "da3f7f57b2c66add051db5c664ce7eb73bf28652ed32fb1dc71eaf63c8e326fd",
+      "bytes": 8734
+    },
+    {
+      "path": "scripts/with-app-env.mjs",
+      "sha256": "d0b3c1a150756328f2744d0a405ca0f54f20562364a1277460e11f31b8836f48",
+      "bytes": 4676
+    },
+    {
+      "path": "scripts/with-app-env.test.mjs",
+      "sha256": "f7ed1759663fb057c29a5ebc7bdf652f025b68d990022b4def7edc9f6ca6376a",
+      "bytes": 4541
+    },
+    {
+      "path": "scripts/write-atomic.mjs",
+      "sha256": "129e16e50cd427c2421e89826a5219fb3825885a2fd23c81db9262a91addf08c",
+      "bytes": 3682
+    },
+    {
+      "path": "scripts/write-atomic.test.mjs",
+      "sha256": "d44a1c85783af085eff8bea9f261a98531a51900fb8e04ad9a440c2be219d173",
+      "bytes": 7580
+    },
+    {
+      "path": "server/middleware/grok-pwa.ts",
+      "sha256": "1e035b34692ff1e4565f13d45532d317301478be4537f77b8ae260be53429eb4",
+      "bytes": 3681
+    },
+    {
+      "path": "server/virtual-grok-og-identity.d.ts",
+      "sha256": "8c7e3c2b900f3c63d244465bfd9343b028413f0fecb6d0c7317385170bb9e097",
+      "bytes": 337
+    },
+    {
+      "path": "src/components/machine/AuthSlot.tsx",
+      "sha256": "dc8eadda55ec408ce763e9deaaad3adaa20f183381890ddfe9426ecc86ab1b23",
+      "bytes": 997
+    },
+    {
+      "path": "src/components/machine/MachineApp.tsx",
+      "sha256": "d7f8c9515692d429ac6bf0b454a215f423f9971a3a551afd99e410595c3c6dfc",
+      "bytes": 24416
+    },
+    {
+      "path": "src/components/preview-host-bridge.tsx",
+      "sha256": "bbed6217607a57efb1dcb6446b1c4294ffae7e521d35a5e1a329f17cf6d82bd9",
+      "bytes": 743
+    },
+    {
+      "path": "src/lib/app-data/app-data.test.ts",
+      "sha256": "7234795275ee746fe8f348dea0a1771c6d3be894ef89b1a46649529089c8820d",
+      "bytes": 16019
+    },
+    {
+      "path": "src/lib/app-data/client.server.ts",
+      "sha256": "d826aa650bf327d6270deb4dc6416cecff51a6bae276143417bee830093194fa",
+      "bytes": 11942
+    },
+    {
+      "path": "src/lib/app-data/errors.ts",
+      "sha256": "6061cdd1a5c05a4ec2787ce399642d338d260817b2b611dc8a76a22787cc3924",
+      "bytes": 2069
+    },
+    {
+      "path": "src/lib/app-data/index.ts",
+      "sha256": "51077a6ab0d7e2378fa4ff8528bfc7e75684358d463ed68e82cc042e7907c493",
+      "bytes": 673
+    },
+    {
+      "path": "src/lib/app-data/login.ts",
+      "sha256": "094a2e14f566d86c19271d55395df9368e821843e5fc446159bec45e626ac37f",
+      "bytes": 931
+    },
+    {
+      "path": "src/lib/app-data/readiness-schedule.test.ts",
+      "sha256": "26ccdce9fbe6d84afb9a0543676140b94a80f68fa2430d9875784b020842e673",
+      "bytes": 1221
+    },
+    {
+      "path": "src/lib/app-data/readiness-schedule.ts",
+      "sha256": "6ad97246a3ef0997a1db3e1adfad9e73cca6530d5f8566c8ea26f48295b2bc77",
+      "bytes": 581
+    },
+    {
+      "path": "src/lib/app-data/readiness.ts",
+      "sha256": "656b9573bad651e6ba09168f1cfb190410b01607cca103dcc49063119329f23c",
+      "bytes": 441
+    },
+    {
+      "path": "src/lib/app-data/server-only.ts",
+      "sha256": "ee347785cffd936354e3edf457e88700502d5695ff851529f2972c12545394dd",
+      "bytes": 551
+    },
+    {
+      "path": "src/lib/app-data/types.ts",
+      "sha256": "248cca0198be1f6a11f31f7eb0f331ba36ee43be063f62d4d13e6d88806a3e51",
+      "bytes": 1436
+    },
+    {
+      "path": "src/lib/app-data/use-connector-readiness.ts",
+      "sha256": "1d2e1ebefd97d992769373d4f99caa9a9c454bae1f6d44faede5aec34e506437",
+      "bytes": 3967
+    },
+    {
+      "path": "src/lib/auth/client.ts",
+      "sha256": "7c8da2514cde970c4c2da1219ab1a298b95981961dbf9b1aee4665248f08b76c",
+      "bytes": 9789
+    },
+    {
+      "path": "src/lib/auth/email-password.ts",
+      "sha256": "13b2bd2fa308e5e57fefe23cf254244a13f4f7ed67c2b88bf38ff08a5aed60d0",
+      "bytes": 517
+    },
+    {
+      "path": "src/lib/auth/gate-identity.server.ts",
+      "sha256": "0f7b8debb6afa5ff06f2ca317760ca474a02e75a734d339dda34376ed1395109",
+      "bytes": 5781
+    },
+    {
+      "path": "src/lib/auth/gate-identity.test.ts",
+      "sha256": "c95ec89e5dcfba8deccaec3f44257f80e27b9411c894f980e4ccc826baabc4da",
+      "bytes": 14421
+    },
+    {
+      "path": "src/lib/auth/gate-session-marker.ts",
+      "sha256": "8dae235d20afc7dcf7a2df346a66eac53082840ba3418d060543ba0fd1e732df",
+      "bytes": 954
+    },
+    {
+      "path": "src/lib/auth/gate-session.server.ts",
+      "sha256": "da931757cb311dc2b32dac79d0d0269b362cc68762080523ba89667b413bb4ec",
+      "bytes": 12055
+    },
+    {
+      "path": "src/lib/auth/gates.tsx",
+      "sha256": "6e3f72f7bba4e7462b8da60774b73fe6e647b0f0121bac8275a94a1fab8206b5",
+      "bytes": 4999
+    },
+    {
+      "path": "src/lib/auth/isolation.server.ts",
+      "sha256": "e49e077c0a0fd48ce9eed7ed9fbb5860f9db40ac827ebd88b202561fbec1bd2d",
+      "bytes": 2461
+    },
+    {
+      "path": "src/lib/auth/middleware.ts",
+      "sha256": "79efeffe52e69bab6ff9ead0d5288ba65cdb8590b9429057c098c7bec5bc1b4e",
+      "bytes": 2537
+    },
+    {
+      "path": "src/lib/auth/pglite-dialect.ts",
+      "sha256": "5dbe7d03793987e504a4c123f7e25996b4ce95b265ca26350900e8413c3af1f7",
+      "bytes": 4163
+    },
+    {
+      "path": "src/lib/auth/popup.server.ts",
+      "sha256": "0d11d45c0085b8305513b8af04d8f5b275204c36ae5bedfa4988e707d8208aa8",
+      "bytes": 6208
+    },
+    {
+      "path": "src/lib/auth/preview.ts",
+      "sha256": "bfe7113c7730c4083477fddf4e2cb65cffe7d0300a8e3c5dba75d81d1070682a",
+      "bytes": 1754
+    },
+    {
+      "path": "src/lib/auth/provider.tsx",
+      "sha256": "1149a9f3454e313cc5e364d29daea89a2b63dfb276c0b8ee58ccda53b8dd3a68",
+      "bytes": 668
+    },
+    {
+      "path": "src/lib/auth/providers.ts",
+      "sha256": "5c7c0eb0b303be9aad316673887cc046d1b75fb331977e1599bc11f9fd26fc51",
+      "bytes": 1561
+    },
+    {
+      "path": "src/lib/auth/server.ts",
+      "sha256": "4f8463c85b83991de5f21cc25cb1696f2bb517e241527c27aac072462c08b346",
+      "bytes": 12623
+    },
+    {
+      "path": "src/lib/auth/sign-in-gate.test.ts",
+      "sha256": "a7ab0c40609fa4748df5578b0add67727814d2ac1d91cf4ceca90e85cd9ed1ea",
+      "bytes": 929
+    },
+    {
+      "path": "src/lib/auth/sign-in-gate.ts",
+      "sha256": "0dc5826407905e8df4757f20d35abc516ef59045cf9a19592239a5a18a692fd5",
+      "bytes": 407
+    },
+    {
+      "path": "src/lib/auth/use-current-user.ts",
+      "sha256": "74bb5a10b765bf1d061053087d08bc224acf93fc77e878d22f0a530f5b20144a",
+      "bytes": 3390
+    },
+    {
+      "path": "src/lib/auth/verify.server.ts",
+      "sha256": "450c9fb91b085352df6ca29f78c77456711acf636ad9768ce2b1f2203a6ca71a",
+      "bytes": 3949
+    },
+    {
+      "path": "src/lib/collatz/data.json",
+      "sha256": "89476219a2c81ecf4e87770426ba55597906db18f19521c294ca1eca8838f77d",
+      "bytes": 152671
+    },
+    {
+      "path": "src/lib/collatz/data.ts",
+      "sha256": "ec19d6d3daa39468399587498c91ace6c588addbd00efda4d67dde340150a430",
+      "bytes": 498
+    },
+    {
+      "path": "src/lib/collatz/math.ts",
+      "sha256": "c6d354d58b8e87340af76941569d9829590c48a412290a3a2469190749524b26",
+      "bytes": 1492
+    },
+    {
+      "path": "src/lib/db.ts",
+      "sha256": "221fd968499b0a9bab3a26b49135acb51c4f79c1035817a2172071093e3c3f72",
+      "bytes": 9600
+    },
+    {
+      "path": "src/lib/env.server.ts",
+      "sha256": "8b8a77a7d0f0319271f1f8ceda2f4d571b0a5a8aa7413f7a1089f178e6ddaf98",
+      "bytes": 552
+    },
+    {
+      "path": "src/lib/error-component.tsx",
+      "sha256": "3276928987723aff06f1d7b0f77cfbf07c861201954d0d91d12c73c1687bc17e",
+      "bytes": 1104
+    },
+    {
+      "path": "src/lib/machine/audio.ts",
+      "sha256": "33735ea1a7258f80af4780459a1b7682d9d82ed04e57e2637968dd7937370759",
+      "bytes": 3018
+    },
+    {
+      "path": "src/lib/machine/chapters.ts",
+      "sha256": "ee82c465561e71ee354ce588f228f47ee01b974ef6e1a0e1fa8be6fb7aa5ebd5",
+      "bytes": 1286
+    },
+    {
+      "path": "src/lib/machine/draw.ts",
+      "sha256": "7ef19528f1c3ff6d2fbaa17090d9cb29d886a28b60166aa0b3bd004a16ec8dbd",
+      "bytes": 3004
+    },
+    {
+      "path": "src/lib/machine/film.ts",
+      "sha256": "5e6c7926e95c9eb217897af58250078bdb9cdf79f392feeff4243e0b1de32d8b",
+      "bytes": 22438
+    },
+    {
+      "path": "src/lib/machine/palette.ts",
+      "sha256": "7812a7bad3e4e4612cc1eaacacde7f0a160c6e25751cd1dd1581f12be81733b9",
+      "bytes": 1260
+    },
+    {
+      "path": "src/lib/machine/rain.ts",
+      "sha256": "ce8b614fc1747ff901714a63394083d0e18f335ad3d949c3848b5dfd06c02d79",
+      "bytes": 1834
+    },
+    {
+      "path": "src/lib/multiplayer/index.ts",
+      "sha256": "503c8ef17a9883f6e8a4f97f547826fef8487dbd964736ec00fce64e0d844eef",
+      "bytes": 244
+    },
+    {
+      "path": "src/lib/multiplayer/p2p.ts",
+      "sha256": "b4e518a53d29670e1e4690b9b1dc412e358e434d28655e7eb9e2dbba1270d1e0",
+      "bytes": 20654
+    },
+    {
+      "path": "src/lib/og/site.json",
+      "sha256": "a2006d45a9d2e4a7f9a1f5e636b689104aeb86decdbadf536e6c459510d3b2d7",
+      "bytes": 182
+    },
+    {
+      "path": "src/lib/orbits/api.ts",
+      "sha256": "a482e3f88af0578f1eb722e9fc0fb05e10d15c812dd5affb1da95f3a6a2dbbf4",
+      "bytes": 5864
+    },
+    {
+      "path": "src/lib/orbits/names.ts",
+      "sha256": "d5541f5dd250f0c1d3da2cfa704eb19d0fb2e95d58ed83e7f71a5fc38596b896",
+      "bytes": 384
+    },
+    {
+      "path": "src/lib/preview-embedder-origin.ts",
+      "sha256": "f2d1823e7b934e8f26b71f6c069084325bfd97499e6b8dd0552965a60dc22de9",
+      "bytes": 1930
+    },
+    {
+      "path": "src/lib/preview-host-bridge.ts",
+      "sha256": "806c691b1c0c8a38dfdc688d89a50841dd54a5f7576a715e539de29a293b145b",
+      "bytes": 9670
+    },
+    {
+      "path": "src/lib/utils.ts",
+      "sha256": "a3a465d7958b3cda1d89ef932fbc0a70618440830dd128c9b3e70f015eee4af3",
+      "bytes": 244
+    },
+    {
+      "path": "src/routeTree.gen.ts",
+      "sha256": "80756ce82d58080cf3b502871c8db4e0995e70d13ebec271acded5565b153cb0",
+      "bytes": 3619
+    },
+    {
+      "path": "src/router.tsx",
+      "sha256": "94849d128a7411618ea12b434c3abf0c164df82f01f82609dca2dc371a46c1c5",
+      "bytes": 347
+    },
+    {
+      "path": "src/routes/__root.tsx",
+      "sha256": "1a3c5339ff3b0fbe76a7fbd3926592b2eab79600e01a3dd4cb5f9fa9913305d6",
+      "bytes": 1685
+    },
+    {
+      "path": "src/routes/api/auth/$.ts",
+      "sha256": "073f008ce74a486606d9028818cfc1899d23b8b6c5f61c1a212c286997938357",
+      "bytes": 377
+    },
+    {
+      "path": "src/routes/index.tsx",
+      "sha256": "7d3e713757a0a68736e7593adaacc11c45ccb77cba869acd51054120a6962feb",
+      "bytes": 306
+    },
+    {
+      "path": "src/routes/login.tsx",
+      "sha256": "9f3a26e84b18e62c449e2afbacb296dc866c53a1d56d352a04a7fbcecce06e1b",
+      "bytes": 2126
+    },
+    {
+      "path": "src/routes/p/$slug.tsx",
+      "sha256": "998a5d9dc20cf257ffdb83d904a6d97bd885f64a93ef27c66f5626fcf98b8dce",
+      "bytes": 1156
+    },
+    {
+      "path": "src/styles.css",
+      "sha256": "b17b0ee6ae0cbc2306fd65ddb58ffe0c57997b2bbdbb1fa26a1c18ffe83233eb",
+      "bytes": 1708
+    },
+    {
+      "path": "startup.sh",
+      "sha256": "0c6cd162685b10ebba7aca3904aa74d96aa88b1bcf00de0bcb084746c3b43325",
+      "bytes": 265
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "d3e4418e50d575e966bb53e9dd65c4dfbf6f523a4aa56a4741468f5c366fb774",
+      "bytes": 598
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "db702522982562c6cdf12e33003b1b91e2664f77f7f485d064c8d60f8e3e7247",
+      "bytes": 6825
+    }
+  ]
+}

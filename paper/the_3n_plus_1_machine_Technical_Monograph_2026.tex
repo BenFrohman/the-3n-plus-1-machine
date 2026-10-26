@@ -1,0 +1,126 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue}
+
+\title{\textbf{The 3n+1 Machine: Interactive Visual Orbit Explorer, Stopping-Time Analyzer, and Parity-Vector Platform for Collatz Dynamics}}
+\author{Benjamin Stanley Frohman\\
+\small ORCID: \href{https://orcid.org/0009-0006-7068-3718}{0009-0006-7068-3718} \quad|\quad
+GitHub: \href{https://github.com/BenFrohman/the-3n-plus-1-machine}{\texttt{BenFrohman/the-3n-plus-1-machine}}\\
+\small Dedicated 1-to-1 Zenodo DOI: \href{https://doi.org/10.5281/zenodo.23653011}{\texttt{10.5281/zenodo.23653011}}}
+\date{Earliest Commit Provenance: 2026-09-18 04:27:42 PM CDT (UTC-5)\\
+Siloed Archival Edition: October 25, 2026 (America/Chicago CDT)}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Standalone TypeScript/React/Node computational platform (`src/`, `server/`, `shared/`, `migrations/`) for interactive exploration of 3n+1 Collatz trajectories, 2-adic parity-vector trees, Terras stopping-time distributions, and cycle-equation invariants.
+\end{abstract}
+
+\section{Scope, Scientific Honesty, and Non-Claim Boundary}
+Computational and visual exploration platform for verified finite-range Collatz dynamics and algebraic cycle identities; does not claim an unconditional proof of the global 3n+1 conjecture.
+
+\begin{itemize}
+  \item \textbf{Repository:} \texttt{https://github.com/BenFrohman/the-3n-plus-1-machine}
+  \item \textbf{Dedicated 1-to-1 Zenodo DOI:} \texttt{10.5281/zenodo.23653011}
+  \item \textbf{Earliest Git Commit SHA:} \texttt{ce2663622c04171e4273646bd8520aefe9341d7d} (2026-09-18 04:27:42 PM CDT (UTC-5))
+  \item \textbf{License \& Copyright:} Copyright \textcopyright\ 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0.
+\end{itemize}
+
+\section{Technical Overview \& Repository Specification}
+**A cinematic visual proof of almost everything that is known about the Collatz conjecture.**
+
+Copyright (c) 2026 **Benjamin Stanley Frohman**.
+
+Open source under the Apache License, Version 2.0. See [LICENSE](LICENSE).
+
+The paid-use restriction of 23 September 2026 was a mistake and is withdrawn.
+
+| | |
+
+|---|---|
+
+| Author | Benjamin Stanley Frohman |
+
+| Version | `1.1.0` |
+
+| Status | Public · Apache-2.0 |
+
+| First fixed | 18 September 2026 |
+
+| License | Apache-2.0 |
+
+An interactive film of the `3n+1` map:
+
+- the rule
+
+- the hailstone of 27 (peak 9232)
+
+- the reverse coral tree
+
+- Terras density
+
+- the parity-vector engine
+
+- the remaining lemma (Tao 2019, machine check below \textbackslash\{\}(2\textasciicircum{}\{68\}\textbackslash\{\}), no other cycle proven)
+
+\section{Cryptographic Provenance \& File Inventory}
+Every source artifact in \texttt{BenFrohman/the-3n-plus-1-machine} is audited via \texttt{titan-audit}
+(\texttt{audit/TITAN\_AUDIT\_CERTIFICATE.json}) and sealed under a deterministic SHA-256 Merkle tree via
+\texttt{sealguard} (\texttt{PROVENANCE\_MERKLE\_ROOT.json}) signed with Ed25519 key fingerprint
+\texttt{b428fb72676f1c52}.
+
+\begin{center}
+\small
+\begin{tabular}{p{0.52\textwidth}rr}
+\toprule
+\textbf{Repository Path} & \textbf{Size} & \textbf{SHA-256 Prefix} \\
+\midrule
+\texttt{.github/CODEOWNERS} & 14 B & \texttt{db51a51ebf7d5900...} \\
+\texttt{.github/RELEASE.md} & 648 B & \texttt{e22ea0a920cee25e...} \\
+\texttt{.gitignore} & 194 B & \texttt{6ab49d54e18c2caa...} \\
+\texttt{.grok/app-env.json} & 43 B & \texttt{0a7458baafdc2464...} \\
+\texttt{.npmrc} & 48 B & \texttt{5af3d474eb1886c0...} \\
+\texttt{.prettierrc} & 90 B & \texttt{d5f90f76c5b68ce7...} \\
+\texttt{CITATION.cff} & 832 B & \texttt{ad1060bae44a6a8b...} \\
+\texttt{COPYRIGHT} & 1199 B & \texttt{af2624f4181f4bd3...} \\
+\texttt{LICENSE} & 11355 B & \texttt{9da72c2bee4f20ba...} \\
+\texttt{NOTICE} & 1025 B & \texttt{d5f21cae93516f1c...} \\
+\texttt{README.md} & 1795 B & \texttt{3dc3a94e5188b472...} \\
+\texttt{SECURITY.md} & 476 B & \texttt{7d1b689661ceef62...} \\
+\texttt{eslint.config.mjs} & 1352 B & \texttt{a840049ae76404c6...} \\
+\texttt{migrations/0001\_auth.sql} & 2739 B & \texttt{f953cacc448c0c81...} \\
+\texttt{migrations/0002\_orbits.sql} & 938 B & \texttt{8f74f1caf71a28a0...} \\
+\texttt{migrations/auth/0001\_auth.sql} & 2739 B & \texttt{f953cacc448c0c81...} \\
+\texttt{package-lock.json} & 262769 B & \texttt{fc81314ce9ca4b6b...} \\
+\texttt{package.json} & 4332 B & \texttt{9337efc19955689d...} \\
+\texttt{public/favicon.svg} & 399 B & \texttt{6de8eddf1d851737...} \\
+\texttt{public/og.jpg} & 94780 B & \texttt{2619129a9d8811c0...} \\
+\texttt{public/x-banner.jpg} & 61576 B & \texttt{24d51a5d09a9971e...} \\
+\texttt{scripts/app-env-plugin.mjs} & 1353 B & \texttt{c9012cb367bd0d1b...} \\
+\texttt{scripts/brand-check.mjs} & 9684 B & \texttt{31c56f74d8461e2e...} \\
+\texttt{scripts/brand-check.test.mjs} & 15159 B & \texttt{fa2941f008c105fb...} \\
+\texttt{scripts/browser-guard.mjs} & 1799 B & \texttt{ce18f320c69f8950...} \\
+\texttt{scripts/browser-smoke-verdict.mjs} & 4738 B & \texttt{cf9679b8a4dd7136...} \\
+\texttt{scripts/browser-smoke-verdict.test.mjs} & 15718 B & \texttt{5ff069af0c316480...} \\
+\texttt{scripts/browser-smoke.mjs} & 6117 B & \texttt{ea272cd39ef58512...} \\
+\texttt{scripts/check-auth-invariant.mjs} & 4278 B & \texttt{3c60e6a4dc64749f...} \\
+\texttt{scripts/check-auth-invariant.test.mjs} & 4293 B & \texttt{e5146edf5b2d5fd3...} \\
+\texttt{scripts/grok-pwa-plugin.mjs} & 6690 B & \texttt{19ea58acb8752be4...} \\
+\texttt{scripts/grok-pwa-plugin.test.mjs} & 20395 B & \texttt{9770f1be1797ecd5...} \\
+\texttt{scripts/grok-pwa-shared.d.mts} & 3144 B & \texttt{99c8342319978d71...} \\
+\texttt{scripts/grok-pwa-shared.mjs} & 17750 B & \texttt{5a888cba25e4cff0...} \\
+\texttt{scripts/install-page.html} & 5739 B & \texttt{f02e277ec9daec42...} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vfill
+\noindent\rule{\textwidth}{0.4pt}\\
+\footnotesize
+\textbf{Attribution \& Licensing Notice:} Copyright \textcopyright\ 2026 Benjamin Stanley Frohman (ORCID: \texttt{0009-0006-7068-3718}).
+Licensed under the Apache License, Version 2.0.
+\end{document}

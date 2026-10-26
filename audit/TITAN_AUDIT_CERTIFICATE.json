@@ -1,0 +1,16 @@
+{
+  "schema": "titan-audit-v1.0",
+  "repository": "BenFrohman/the-3n-plus-1-machine",
+  "doi": "10.5281/zenodo.23653011",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "lean_module_count": 0,
+  "sorry_count": 0,
+  "modules": [],
+  "verdict": "PASS_ZERO_SORRY_HONEST_BOUNDARY",
+  "payload_sha256": "18faff3e92e169fa7f3869f213d3ac26bf84c5093e18b6b317af00fe11d0db25",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "b3d4f118a64d29a96a51a7443aad3da46a81cbbe0d37e623e133fd32e24afe5cc640dfb0659f29d073af66094a9867b05cd04552a2a5cb8a6cce1b1ae9feab0c"
+}
