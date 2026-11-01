@@ -5,7 +5,8 @@
   "description": "The 3n+1 Machine — an interactive visual proof of almost everything known about the Collatz conjecture. Copyright (c) 2026 Benjamin Stanley Frohman. Apache-2.0.",
   "author": {
     "name": "Benjamin Stanley Frohman",
-    "url": "https://github.com/BenFrohman"
+    "url": "https://github.com/BenFrohman",
+    "email": "frohmanbenjamin@gmail.com"
   },
   "license": "Apache-2.0",
   "repository": {
