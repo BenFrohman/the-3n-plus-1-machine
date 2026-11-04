@@ -67,3 +67,8 @@ Tag `v1.0.0-priority` is the 18 September 2026 first-fixation and is not rewritt
 - **SealGuard SHA-256 Merkle Root:** `792f2652b5a51d351bdf19ecd11688b3ed751823c5956012a3aa59a30e6e5e8d` (`PROVENANCE_MERKLE_ROOT.json`)
 - **Titan Audit Certificate:** `audit/TITAN_AUDIT_CERTIFICATE.json` (Ed25519 key `b428fb72676f1c52`)
 - **Scope & Scientific Boundary:** Computational and visual exploration platform for verified finite-range Collatz dynamics and algebraic cycle identities; does not claim an unconditional proof of the global 3n+1 conjecture.
+
+## Zenodo archive
+
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23653010.svg)](https://doi.org/10.5281/zenodo.23653010) The 3n+1 Machine: Interactive Visual Orbit Explorer, Stopping-Time Analyzer, and Parity-Vector Platform for Collatz Dynamics — all versions: [10.5281/zenodo.23653010](https://doi.org/10.5281/zenodo.23653010); latest version: [10.5281/zenodo.23653011](https://doi.org/10.5281/zenodo.23653011)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867478.svg)](https://doi.org/10.5281/zenodo.23867478) The 3n+1 Machine: Interactive Visual Orbit Explorer, Stopping-Time Analyzer, and Parity-Vector Platform for Collatz Dynamics — all versions: [10.5281/zenodo.23867478](https://doi.org/10.5281/zenodo.23867478); latest version: [10.5281/zenodo.23867479](https://doi.org/10.5281/zenodo.23867479)
